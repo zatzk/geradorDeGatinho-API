@@ -1,0 +1,149 @@
+{
+  "gatinhos": [
+    {
+      "id": 0,
+      "name": "gato alternativo",
+      "image": "https://raw.githubusercontent.com/zatzk/geradorDeGatinho-API/main/images/gato%20alternativo.jpeg"
+    },
+    {
+      "id": 1,
+      "name": "gato ameaçado",
+      "image": "https://raw.githubusercontent.com/zatzk/geradorDeGatinho-API/main/images/gato%20ameaçado.jpg"
+    },
+    {
+      "id": 2,
+      "name": "gato amor",
+      "image": "https://raw.githubusercontent.com/zatzk/geradorDeGatinho-API/main/images/gato%20amor.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "gato banho",
+      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20banho.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "gato batman",
+      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20batman.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "gato biceps",
+      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20biceps.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "gato bigode",
+      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20bigode.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "gato bombado",
+      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20bombado.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "gato buxin chei",
+      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20buxin%20chei.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "gato capoeira",
+      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20capoeira.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "gato chapéu",
+      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20chap%C3%A9u.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "gato chiquinha",
+      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20chiquinha.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "gato coelho",
+      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20coelho.jpeg"
+    },
+    {
+      "id": 13,
+      "name": "gato conceitual",
+      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20conceitual.png"
+    },
+    {
+      "id": 14,
+      "name": "gato coração partido",
+      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20cora%C3%A7%C3%A3o%20partido.jpeg"
+    },
+    {
+      "id": 15,
+      "name": "gato coração",
+      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20cora%C3%A7%C3%A3o.jpeg"
+    },
+    {
+      "id": 16,
+      "name": "gato dança",
+      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20dan%C3%A7a.jpeg"
+    },
+    {
+      "id": 17,
+      "name": "gato dieta",
+      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20dieta.jpeg"
+    },
+    {
+      "id": 18,
+      "name": "gato diferenciado",
+      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20diferenciado.jpeg"
+    },
+    {
+      "id": 19,
+      "name": "gato e-girl",
+      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20e-girl.jpeg"
+    },
+    {
+      "id": 20,
+      "name": "gato emo",
+      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20emo.jpeg"
+    },
+    {
+      "id": 21,
+      "name": "gato enem",
+      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20enem.jpeg"
+    },
+    {
+      "id": 22,
+      "name": "gato espuma",
+      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20espuma.jpeg"
+    },
+    {
+      "id": 23,
+      "name": "gato estilo",
+      "image": ""
+    },
+    {
+      "id": 24,
+      "name": "gato estranho",
+      "image": ""
+    },
+    {
+      "id": 25,
+      "name": "gato estudo",
+      "image": ""
+    },
+    {
+      "id": 26,
+      "name": "gato fanta",
+      "image": ""
+    },
+    {
+      "id": 27,
+      "name": "gato fome",
+      "image": ""
+    },
+    {
+      "id": 28,
+      "name": "gato grr",
+      "image": ""
+    }
+  ]
+}

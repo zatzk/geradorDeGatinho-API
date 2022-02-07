@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "name": "geradordegatinhos-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zatzk/geradorDeGatinho-API.git"
+  },
+  "author": "zatzk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zatzk/geradorDeGatinho-API/issues"
+  },
+  "homepage": "https://github.com/zatzk/geradorDeGatinho-API#readme",
+  "description": "an api db of meme cats"
+}
