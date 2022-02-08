@@ -3,147 +3,312 @@
     {
       "id": 0,
       "name": "gato alternativo",
-      "image": "https://raw.githubusercontent.com/zatzk/geradorDeGatinho-API/main/images/gato%20alternativo.jpeg"
+      "image": "https://i.imgur.com/2UpqNI8.jpg"
     },
     {
       "id": 1,
       "name": "gato ameaçado",
-      "image": "https://raw.githubusercontent.com/zatzk/geradorDeGatinho-API/main/images/gato%20ameaçado.jpg"
+      "image": "https://i.imgur.com/BCg8GiI.jpg"
     },
     {
       "id": 2,
       "name": "gato amor",
-      "image": "https://raw.githubusercontent.com/zatzk/geradorDeGatinho-API/main/images/gato%20amor.jpeg"
+      "image": "https://i.imgur.com/3oXhG2v.jpg"
     },
     {
       "id": 3,
       "name": "gato banho",
-      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20banho.jpeg"
+      "image": "https://i.imgur.com/bg0OnsZ.jpg"
     },
     {
       "id": 4,
       "name": "gato batman",
-      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20batman.jpeg"
+      "image": "https://i.imgur.com/wVcifPs.jpg"
     },
     {
       "id": 5,
       "name": "gato biceps",
-      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20biceps.jpeg"
+      "image": "https://i.imgur.com/kbwToZN.jpg"
     },
     {
       "id": 6,
       "name": "gato bigode",
-      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20bigode.jpeg"
+      "image": "https://i.imgur.com/b7duwMT.jpg"
     },
     {
       "id": 7,
       "name": "gato bombado",
-      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20bombado.jpeg"
+      "image": "https://i.imgur.com/NCd5Zqo.jpg"
     },
     {
       "id": 8,
       "name": "gato buxin chei",
-      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20buxin%20chei.jpeg"
+      "image": "https://i.imgur.com/v0DDbUx.jpg"
     },
     {
       "id": 9,
       "name": "gato capoeira",
-      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20capoeira.jpeg"
+      "image": "https://i.imgur.com/XbluCJk.jpg"
     },
     {
       "id": 10,
       "name": "gato chapéu",
-      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20chap%C3%A9u.jpeg"
+      "image": "https://i.imgur.com/Jnq6SRy.jpg"
     },
     {
       "id": 11,
       "name": "gato chiquinha",
-      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20chiquinha.jpeg"
+      "image": "https://i.imgur.com/sZmLWNm.jpg"
     },
     {
       "id": 12,
       "name": "gato coelho",
-      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20coelho.jpeg"
+      "image": "https://i.imgur.com/CPZgaHc.jpg"
     },
     {
       "id": 13,
       "name": "gato conceitual",
-      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20conceitual.png"
+      "image": "https://i.imgur.com/vDaQXAm.png"
     },
     {
       "id": 14,
       "name": "gato coração partido",
-      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20cora%C3%A7%C3%A3o%20partido.jpeg"
+      "image": "https://i.imgur.com/1hrvfWn.jpg"
     },
     {
       "id": 15,
       "name": "gato coração",
-      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20cora%C3%A7%C3%A3o.jpeg"
+      "image": "https://i.imgur.com/tg9b87x.jpg"
     },
     {
       "id": 16,
       "name": "gato dança",
-      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20dan%C3%A7a.jpeg"
+      "image": "https://i.imgur.com/4W5j2Qb.jpg"
     },
     {
       "id": 17,
       "name": "gato dieta",
-      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20dieta.jpeg"
+      "image": "https://i.imgur.com/9aCGCvQ.jpg"
     },
     {
       "id": 18,
       "name": "gato diferenciado",
-      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20diferenciado.jpeg"
+      "image": "https://i.imgur.com/YdPPG7X.jpg"
     },
     {
       "id": 19,
-      "name": "gato e-girl",
-      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20e-girl.jpeg"
+      "name": "gato disfarçado",
+      "image": "https://i.imgur.com/BUuxqrV.jpg"
     },
     {
       "id": 20,
-      "name": "gato emo",
-      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20emo.jpeg"
+      "name": "gato e-girl",
+      "image": "https://i.imgur.com/fuF1adF.jpg"
     },
     {
       "id": 21,
-      "name": "gato enem",
-      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20enem.jpeg"
+      "name": "gato emo",
+      "image": "https://i.imgur.com/ffmQgeM.jpg"
     },
     {
       "id": 22,
-      "name": "gato espuma",
-      "image": "https://github.com/zatzk/geradorDeGatinho-API/blob/main/images/gato%20espuma.jpeg"
+      "name": "gato enem",
+      "image": "https://i.imgur.com/G74smUY.jpg"
     },
     {
       "id": 23,
-      "name": "gato estilo",
-      "image": ""
+      "name": "gato espuma",
+      "image": "https://i.imgur.com/JaHXVIE.jpg"
     },
     {
       "id": 24,
-      "name": "gato estranho",
-      "image": ""
+      "name": "gato estilo",
+      "image": "https://i.imgur.com/3llQN0z.jpg"
     },
     {
       "id": 25,
-      "name": "gato estudo",
-      "image": ""
+      "name": "gato estranho",
+      "image": "https://i.imgur.com/JD5YlE4.jpg"
     },
     {
       "id": 26,
-      "name": "gato fanta",
-      "image": ""
+      "name": "gato estudo",
+      "image": "https://i.imgur.com/WSywiCe.jpg"
     },
     {
       "id": 27,
-      "name": "gato fome",
-      "image": ""
+      "name": "gato fanta",
+      "image": "https://i.imgur.com/o3lfCNh.jpg"
     },
     {
       "id": 28,
+      "name": "gato fome",
+      "image": "https://i.imgur.com/PMDf4aw.jpg"
+    },
+    {
+      "id": 30,
       "name": "gato grr",
-      "image": ""
+      "image": "https://i.imgur.com/fhyhVUF.jpg"
+    },
+    {
+      "id": 31,
+      "name": "gato higiene",
+      "image": "https://i.imgur.com/7ZRSaY4.jpg"
+    },
+    {
+      "id": 32,
+      "name": "gato impressionado",
+      "image": "https://i.imgur.com/aIR52kw.jpg"
+    },
+    {
+      "id": 33,
+      "name": "gato intruso",
+      "image": "https://i.imgur.com/wJly7nW.jpg"
+    },
+    {
+      "id": 34,
+      "name": "gato ladrão",
+      "image": "https://i.imgur.com/CiBOmWg.jpg"
+    },
+    {
+      "id": 35,
+      "name": "gato link",
+      "image": "https://i.imgur.com/oyMhFvl.jpg"
+    },
+    {
+      "id": 36,
+      "name": "gato longo",
+      "image": "https://i.imgur.com/XJwrvap.jpg"
+    },
+    {
+      "id": 37,
+      "name": "gato makonha",
+      "image": "https://i.imgur.com/CHwYMOq.jpg"
+    },
+    {
+      "id": 38,
+      "name": "gato meia",
+      "image": "https://i.imgur.com/QRnN0kI.jpg"
+    },
+    {
+      "id": 39,
+      "name": "gato mini",
+      "image": "https://i.imgur.com/y5A7DoA.jpg"
+    },
+    {
+      "id": 40,
+      "name": "gato naninha",
+      "image": "https://i.imgur.com/issijBs.jpg"
+    },
+    {
+      "id": 41,
+      "name": "gato naruto",
+      "image": "https://i.imgur.com/9YCwuQi.jpg"
+    },
+    {
+      "id": 42,
+      "name": "gato natal",
+      "image": "https://i.imgur.com/V1ZWUlN.jpg"
+    },
+    {
+      "id": 43,
+      "name": "gato nu",
+      "image": "https://i.imgur.com/TnxfHb8.jpg"
+    },
+    {
+      "id": 44,
+      "name": "gato ovelha",
+      "image": "https://i.imgur.com/9L7DweO.jpg"
+    },
+    {
+      "id": 45,
+      "name": "gato peaky blinders",
+      "image": "https://i.imgur.com/ydOMzfy.jpg"
+    },
+    {
+      "id": 46,
+      "name": "gato pelado",
+      "image": "https://i.imgur.com/PMJ7Tda.jpg"
+    },
+    {
+      "id": 47,
+      "name": "gato peruca",
+      "image": "https://i.imgur.com/HIZcpo9.jpg"
+    },
+    {
+      "id": 48,
+      "name": "gato pikachu",
+      "image": "https://i.imgur.com/96PRUyH.jpg"
+    },
+    {
+      "id": 49,
+      "name": "gato pipizudo",
+      "image": "https://i.imgur.com/s4s9klV.png"
+    },
+    {
+      "id": 50,
+      "name": "gato pirata",
+      "image": "https://i.imgur.com/GRq8LDS.jpg"
+    },
+    {
+      "id": 51,
+      "name": "gato pizza",
+      "image": "https://i.imgur.com/GEQ1O5P.jpg"
+    },
+    {
+      "id": 52,
+      "name": "gato rebaixado",
+      "image": "https://i.imgur.com/cEZwNpQ.jpg"
+    },
+    {
+      "id": 53,
+      "name": "gato risadinha",
+      "image": "https://i.imgur.com/bUVSuo9.jpg"
+    },
+    {
+      "id": 54,
+      "name": "gato skate",
+      "image": "https://i.imgur.com/C9kL8fd.jpg"
+    },
+    {
+      "id": 55,
+      "name": "gato soninho",
+      "image": "https://i.imgur.com/w1uUwxV.jpg"
+    },
+    {
+      "id": 56,
+      "name": "gato sono",
+      "image": "https://i.imgur.com/i5vfOpy.jpg"
+    },
+    {
+      "id": 57,
+      "name": "gato tango",
+      "image": "https://i.imgur.com/Fa7zfxg.gifv"
+    },
+    {
+      "id": 58,
+      "name": "gato torrada",
+      "image": "https://i.imgur.com/xlIEUIb.jpg"
+    },
+    {
+      "id": 59,
+      "name": "gato trap",
+      "image": "https://i.imgur.com/bZtl6yN.jpg"
+    },
+    {
+      "id": 60,
+      "name": "gato zzz",
+      "image": "https://i.imgur.com/TzZk0fc.jpg"
+    },
+    {
+      "id": 61,
+      "name": "gato louco",
+      "image": "https://i.imgur.com/ypePJ6w.jpg"
+    },
+    {
+      "id": 62,
+      "name": "gato molhado",
+      "image": "https://i.imgur.com/T0f3zA7.jpg"
     }
   ]
 }
