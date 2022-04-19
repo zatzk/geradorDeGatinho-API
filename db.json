@@ -324,6 +324,21 @@
       "id": 65,
       "name": "gato cheetos",
       "image": "https://raw.githubusercontent.com/zatzk/geradorDeGatinho-API/main/images/gato%20cheetos.jpg"
+    },
+    {
+      "id": 66,
+      "name": "gato makonha",
+      "image": ""
+    },
+    {
+      "id": 67,
+      "name": "gato estudos",
+      "image": ""
+    },
+    {
+      "id": 68,
+      "name": "gato mexico",
+      "image": ""
     }
   ]
 }
