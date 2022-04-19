@@ -328,17 +328,17 @@
     {
       "id": 66,
       "name": "gato makonha",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/zatzk/geradorDeGatinho-API/main/images/gato%20makonha.jpg"
     },
     {
       "id": 67,
       "name": "gato estudos",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/zatzk/geradorDeGatinho-API/main/images/gato%20estudos.jpeg"
     },
     {
       "id": 68,
       "name": "gato mexico",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/zatzk/geradorDeGatinho-API/main/images/gato%20mexico.jpg"
     }
   ]
 }
