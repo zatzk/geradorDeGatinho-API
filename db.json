@@ -339,6 +339,11 @@
       "id": 68,
       "name": "gato mexico",
       "image": "https://raw.githubusercontent.com/zatzk/geradorDeGatinho-API/main/images/gato%20mexico.jpg"
+    },
+    {
+      "id": 69,
+      "name": "gato tequila",
+      "image": "https://raw.githubusercontent.com/zatzk/geradorDeGatinho-API/main/images/gato%20tequila.gif"
     }
   ]
 }
