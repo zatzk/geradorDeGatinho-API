@@ -379,6 +379,51 @@
       "id": 75,
       "name": "gato bazooka",
       "image": "https://raw.githubusercontent.com/zatzk/geradorDeGatinho-API/main/images/gato%20bazooka.jpeg"
+    },
+    {
+      "id": 76,
+      "name": "gato bejoca",
+      "image": "https://raw.githubusercontent.com/zatzk/geradorDeGatinho-API/main/images/gato%20bejoca.jpeg"
+    },
+    {
+      "id": 77,
+      "name": "gato brega",
+      "image": "https://raw.githubusercontent.com/zatzk/geradorDeGatinho-API/main/images/gato%20brega.jpeg"
+    },
+    {
+      "id": 78,
+      "name": "gato calvinkleins",
+      "image": "https://raw.githubusercontent.com/zatzk/geradorDeGatinho-API/main/images/gato%20calvinkleins.jpeg"
+    },
+    {
+      "id": 79,
+      "name": "gato colher",
+      "image": "https://raw.githubusercontent.com/zatzk/geradorDeGatinho-API/main/images/gato%20gasosa.jpeg"
+    },
+    {
+      "id": 80,
+      "name": "gato gasosa",
+      "image": "https://raw.githubusercontent.com/zatzk/geradorDeGatinho-API/main/images/gato%20gasosa.jpeg"
+    },
+    {
+      "id": 81,
+      "name": "gato rocambole",
+      "image": "https://raw.githubusercontent.com/zatzk/geradorDeGatinho-API/main/images/gato%20rocambole.jpeg"
+    },
+    {
+      "id": 82,
+      "name": "gato sem fundinhos",
+      "image": "https://raw.githubusercontent.com/zatzk/geradorDeGatinho-API/main/images/gato%20sem%20fundinhos.jpeg"
+    },
+    {
+      "id": 83,
+      "name": "gato tiazinha",
+      "image": "https://raw.githubusercontent.com/zatzk/geradorDeGatinho-API/main/images/gato%20tiazinha.jpeg"
+    },
+    {
+      "id": 84,
+      "name": "gato yoga",
+      "image": "https://raw.githubusercontent.com/zatzk/geradorDeGatinho-API/main/images/gato%20yoga.jpeg"
     }
   ]
 }
