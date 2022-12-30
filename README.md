@@ -3,28 +3,5 @@
 
 ##### Caso possua interesse de uso:
 ```
-GET https://geradordegatinhosapi.herokuapp.com/gatinhos/
+GET https://geradordegatinhos.netlify.app/db.json
 ```
-##### usando node-fetch:
-```
-const fetch = require('node-fetch')
-
-const response = await fetch(https://geradordegatinhosapi.herokuapp.com/gatinhos/);
-const data = await response.json();
-
-console.log(data);
-```
-
-##### usando axios
-```
-const axios = require('axios');
-
-axios.get('https://geradordegatinhosapi.herokuapp.com/gatinhos/')
-    .then(resp => {
-        data = resp.data;
-        console.log(data);
-    })
-    .catch(error => {
-        console.log(error);
-    });
- ```
